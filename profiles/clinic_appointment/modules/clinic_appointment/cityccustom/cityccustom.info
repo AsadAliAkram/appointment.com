@@ -1,0 +1,11 @@
+name = Custom City Cardio
+description = Custom function collection for city cardio website.
+core = 7.x
+stylesheets[all][] = cityccustom.css
+
+; Information added by Drupal.org packaging script on 2016-07-21
+version = "7.x-1.2"
+core = "7.x"
+project = "clinic_appointment"
+datestamp = "1469128769"
+
